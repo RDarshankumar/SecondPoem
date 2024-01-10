@@ -1,0 +1,14 @@
+body{
+    background-color:aqua;
+    padding: o;
+    margin: 0;
+}
+.One{
+    height: 450px;
+    width: 400px;
+    margin: 100px  auto;
+    background-color: white;
+    position: relative;
+    text-align: center;
+    font-weight: bolder;
+}
